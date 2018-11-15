@@ -4,6 +4,7 @@
 ## Requirements
 
 Download the AnonymousPro font
+
 You'll be able to use any font in Cmder, but this font contains the symbols included in the prompt.
 
 ## Configuration
